@@ -4,7 +4,7 @@ const b = 2;
 const c = 'oidoidoiodfiodifoidofidofiodifodifoidofidof';
 
 function sum() {
-  return a + b + c
+  return a + b + c;
 }
 
 sum();
