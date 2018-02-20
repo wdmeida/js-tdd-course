@@ -1,3 +1,5 @@
+import { expect } from 'chai';
+
 /*
   Desafio FizzBuzz
 
@@ -9,7 +11,6 @@
   Se não for múltiplo de nada, retorne o número.
 */
 
-import { expect } from 'chai';
 
 describe('Main', () => {
   it("should return 'Fizz' when multiple of 3", () => {
