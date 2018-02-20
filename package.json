@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/wdmeida/js-tdd-course#readme",
   "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0",
     "chai": "^4.1.2",
     "eslint": "^4.17.0",
     "eslint-config-airbnb-base": "^12.1.0",
